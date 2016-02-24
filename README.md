@@ -1,2 +1,5 @@
 # hello-world
-just another repository 
+
+Hi Everyone,
+
+  I am Lucy. I love playing badminton. 
